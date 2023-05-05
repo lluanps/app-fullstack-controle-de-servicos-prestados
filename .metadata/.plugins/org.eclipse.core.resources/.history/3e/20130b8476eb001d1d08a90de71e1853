@@ -1,0 +1,5 @@
+package com.luan.csp.repository;
+
+public class ClienteRepository {
+
+}
